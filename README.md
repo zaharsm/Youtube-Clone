@@ -1,5 +1,19 @@
-https://clone-4bfc2.web.app/
+#youTube clone
 
+<h3>Visit the Site</h3> https://clone-4bfc2.web.app/   
+
+<h3>Information </h3> this is a youTube clone
+
+<h3>Features </h3> responsive clone of youTube 
+
+<h3>Tech Stack </h3>  1) React 2) React-components 3) React-props 4)react-route
+
+<hr>  
+
+<img src="youtube1.png" >
+<img src="youtube2.png" >
+
+<hr>
 
 # Getting Started with Create React App
 
