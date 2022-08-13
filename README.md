@@ -6,7 +6,7 @@
 
 <h3>Features </h3> responsive clone of youTube 
 
-<h3>Tech Stack </h3>  1) React 2) React-components 3) React-props 4)react-route
+<h3>Tech Stack </h3>  1) React 2) React-components 3) React-props 4) React-route 5) Firebase
 
 <hr>  
 
